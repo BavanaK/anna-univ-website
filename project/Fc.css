@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+form {border: 3px solid #f1f1f1;}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.button {
+  border: none;
+  color:black;
+  padding: 15px 30px;
+  text-align: center;
+  text-decoration: none;
+  display:inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family:bold;
+}
+.button1{background-color:#66d9ff;}
+.button2{background-color:#b3b3ff;}
+.button3{background-color: #80ffaa;}
+.button4{background-color:pink;}
+.button5{background-color:#ffffcc;}
+.button6{background-color:grey;}
+.button7{background-color: #ffcc00;}
+.button8{background-color:#ff6666;}
+.button10{background-color:#ff0066;}
+.button11{background-color:#ff8000;}
+
+</br>
+
+	
+.button {
+  background-color: #04AA6D;
+  color:black;
+  margin:auto;
+  display:block;
+  border: none;
+  cursor: pointer;
+  width:100%;
+}
+.button9{background-color:#00e6ac;}
+
+button:hover {
+  opacity: 0.8;
+}
+
+
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+img.avatar {
+  width:10%;
+  border-radius:50%;
+}
+img.male{
+	width:10%;
+	border-radius:50%;
+
+.container {
+  padding: 16px;
+}
+
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+</style>
+</head>
+</html>
